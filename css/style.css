@@ -1,0 +1,10 @@
+body{
+    background-color: default;
+}
+
+body h2{
+    color: green;
+    text-align: left;
+    font-size: 60px;
+    font-family: monospace;
+}
